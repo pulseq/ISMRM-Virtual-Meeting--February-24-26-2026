@@ -53,6 +53,6 @@ The preliminary program of the Online Meeting:
 |15:25     |5       |*Break*                                                 |                                   |                     |
 |15:30     |15      |user projects (TBD)                                     |TBD                                |TBD                  |
 |15:45     |15      |user projects (TBD)                                     |TBD                                |TBD                  |
-|16:00     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |TBD                  |
+|16:00     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu and Di Cui     |TBD                  |
 |16:20     |20      |user projects (TBD)                                     |TBD                                |TBD                  |
 |16:40     |20      |Q/A session & closing remarks                           |Maxim Zaitsev & Jon-Fredrik Nielsen|TBD                  |
