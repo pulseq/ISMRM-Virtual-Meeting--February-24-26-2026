@@ -52,7 +52,7 @@ The preliminary program of the Online Meeting:
 |15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |TBD                  |
 |15:25     |5       |*Break*                                                 |                                   |                     |
 |15:30     |15      |*Some pulseq specialities for some vendor platforms (final title TBD)*|Matteo Cencini       |TBD                  |
-|15:45     |15      |*Some pulseq project (final title TBD)*                 |Qiang Liu                          |TBD                  |
+|15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |TBD                  |
 |16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |TBD                  |
 |16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |TBD                  |
 |16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |TBD                  |
