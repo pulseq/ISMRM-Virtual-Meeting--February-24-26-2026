@@ -48,7 +48,7 @@ Advance free-of-charge registration is necessary to be able to attend the webina
 |**Day 3** |        |                                                        |                                   |                     |
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Sydney Williams      |
 |14:05     |15      |What's new in Pulseq                                    |Maxim Zaitsev                      |Sydney Williams      |
-|14:20     |20      |Patient and hardware safety                             |Jon-Fredrik Nielsen                |Sydney Williams      |
+|14:20     |20      |Patient safety and hardware protection                  |Jon-Fredrik Nielsen                |Sydney Williams      |
 |14:40     |15      |Pulseq Interpreter and Workflow on United Imaging       |Zheng Zhong                        |Sydney Williams      |
 |14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |Sydney Williams      |
 |15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |Sydney Williams      |
