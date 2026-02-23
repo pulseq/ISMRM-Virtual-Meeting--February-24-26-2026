@@ -1,4 +1,4 @@
-## This directory (will) contain slides of all presentations
+## This directory contains slides of all presentations
 
 to speakers: please upload your presentation slides (PDFs) following the file name convention as below:
 
