@@ -1,6 +1,6 @@
 This repository contains teaching material for the image reconstruction in Pulseq
 
-Topics
+Topics:
 - Online Reconstruction based on ICE and Gadgetron and data labels in Pulseq
 - Offline Reconstruction based on Matlab Pulseq image reconstruction scripts
 
