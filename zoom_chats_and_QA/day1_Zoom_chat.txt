@@ -1,0 +1,29 @@
+10:05:32 From Qiang Liu To Jon-Fredrik Nielsen(direct message):
+	me too
+10:05:37 From Sairam Geethanath To Jon-Fredrik Nielsen(direct message):
+	I dont hear her as well
+10:14:05 From Andreia Gaspar To All panelists:
+	I'm sorry, my computer just blocked. Had to restart
+10:15:45 From Jon-Fredrik Nielsen To Andreia Gaspar(direct message):
+	Ok if you like you can finish your slides after Qingping is done, is that ok?
+10:16:30 From Andreia Gaspar To All panelists:
+	Yes, of course! Just had two slides to end actually
+10:17:10 From Jon-Fredrik Nielsen To All panelists:
+	Ok we'll let Qingping finish and then you can go.
+10:18:04 From Andreia Gaspar To All panelists:
+	Thanks👌
+10:20:03 From Jon-Fredrik Nielsen To Everyone:
+	Github site for this meeting: https://github.com/pulseq/ISMRM-Virtual-Meeting--February-24-26-2026
+11:10:13 From Dario Bosch To All panelists:
+	Thomas, your concept reminds me of the good old Siemens Step2.3 pTx system. Just run 8 spectrometers in parallel ;-)
+11:20:16 From Jon-Fredrik Nielsen To Matteo Cencini(direct message):
+	Hi Matteo, there's a question about pTx on GE -- do you want to reply?
+11:24:24 From Matteo Cencini To Jon-Fredrik Nielsen(direct message):
+	thanks for noticing Jon, I did reply now!
+11:27:23 From Jon-Fredrik Nielsen To Matteo Cencini(direct message):
+	Great
+11:35:35 From Daniel Mackner To All panelists:
+	Thank you!
+	The trajectory is consistent between BART and Pulseq.Problems
+11:37:03 From Daniel Mackner To All panelists:
+	One has to take care if you want to acquire out of iso-center - here, the phase of a Pulseq acquisition is not correct due to the Siemens function (forgot actually the name). For BART online acquisitions FOV shifts are inherently correct
