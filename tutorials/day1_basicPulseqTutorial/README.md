@@ -2,8 +2,6 @@
 ## The tutorial is written by:
 * Python within Jupyter Notebooks on Google Colab.
 * Matlab translated from the Python source code by ChatGPT.    
-This talk will focus on the tutorial based on Jupyter Notebook.
-
 ## The tutorial contains three sequences:
 * s01_fid: FID.
 * s02_fid2gre1d: from FID to 1D GRE.

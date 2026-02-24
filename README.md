@@ -35,10 +35,10 @@ Advance free-of-charge registration is necessary to be able to attend the webina
 |16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |Rita Nunes           |
 |16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |Rita Nunes           |
 |**Day 2** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxililian Gram      |
-|14:05     |30      |IP & licensing - making MR methodology open source (without getting in trouble)|Maxim Zaitsev|Maxililian Gram|
-|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maxililian Gram      |
-|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maxililian Gram      |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maximilian Gram      |
+|14:05     |30      |IP & licensing - making MR methodology open source (without getting in trouble)|Maxim Zaitsev|Maximilian Gram|
+|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maximilian Gram      |
+|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maximilian Gram      |
 |15:35     |5       |*Break*                                                 |                                   |                     |
 |15:40     |10      |Seqeyes: sequence and trajectory viewer tool            |Xingwang Yong                      |Yogesh Rathi         |
 |15:50     |10      |Pulseq on Philips II                                    |Will Grissom                       |Yogesh Rathi         |
