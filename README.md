@@ -26,11 +26,11 @@ Advance free-of-charge registration is necessary to be able to attend the webina
 |**Day 1** |        |                                                        |                                   |                     |
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |
 |14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |
-|14:35     |30      |Working with Pulseq in Matlab                           |Andrea Gaspar                      |Jon-Fredrik Nielsen  |
+|14:35     |30      |Working with Pulseq in Matlab                           |Andreia Gaspar                      |Jon-Fredrik Nielsen  |
 |15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |
 |15:35     |5       |*Break*                                                 |                                   |                     |
-|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andrea Gaspar        |
-|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andrea Gaspar        |
+|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andreia Gaspar        |
+|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andreia Gaspar        |
 |16:10     |15      |BART-Pulseq                                             |Daniel Mackner                     |Rita Nunes           |
 |16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |Rita Nunes           |
 |16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |Rita Nunes           |
