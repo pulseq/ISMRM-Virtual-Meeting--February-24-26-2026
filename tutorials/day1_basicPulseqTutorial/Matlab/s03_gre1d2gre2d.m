@@ -77,7 +77,7 @@ for i = 0:Nphase-1
         'Duration', mr.calcDuration(gx_pre), ...
         'System', sys);
     
-    seq.addBlock(gx_pre, mr.makeDelay(delayTE));
+    seq.addBlock(gx_pre, gy, mr.makeDelay(delayTE));
     seq.addBlock(gx, adc);
     seq.addBlock(mr.makeDelay(delayTR));
     
