@@ -66,8 +66,8 @@ delayTR = TR ...
 % CONSTRUCT SEQUENCE
 % ======
 seq.addBlock(rf_ex);
-seq.addBlock(gx_pre, mr.makeDelay(delayTE));
-seq.addBlock(gx, adc);
+seq.addBlock(mr.makeDelay(delayTE));
+seq.addBlock(adc);
 seq.addBlock(mr.makeDelay(delayTR));
 
 %% Check timing
