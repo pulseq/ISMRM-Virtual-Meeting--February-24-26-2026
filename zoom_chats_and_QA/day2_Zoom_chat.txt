@@ -1,0 +1,16 @@
+09:41:00 From Qingping Chen To Jon-Fredrik Nielsen(direct message):
+	Hi Jon, it sems some audiences only see some of the questions?
+09:41:59 From Jon-Fredrik Nielsen To Qingping Chen(direct message):
+	I just changed it (seems I have to manually do that every day) and I think everyone should be able to see all Q&A now
+10:09:20 From L.H. To All panelists:
+	could someone talk about MRD format ? is it an opensource format?  not famiiar with it
+11:02:24 From Matteo Cencini To Jon-Fredrik Nielsen(direct message):
+	this Philips interpreter looks much more similar to ours and the block combination is like the automatic segmentation approach I've been working on - also, it seems that Philips platform in general likes having TR concept
+11:03:10 From Matteo Cencini To Jon-Fredrik Nielsen(direct message):
+	also for the safety checks
+11:04:24 From Jon-Fredrik Nielsen To Matteo Cencini(direct message):
+	Yes I agree. Perhaps we can have a chat to define overlaps while still allowing everyone to publish their work semi-independently
+11:11:28 From Thomas Roos To All panelists:
+	We should really test and compare our interpreters Will :)
+11:13:52 From William Grissom To All panelists:
+	definitely! i no longer have direct access to a philips scanner as of > 2 yrs, but i can send you our patch, or you can send yours to Saikat
