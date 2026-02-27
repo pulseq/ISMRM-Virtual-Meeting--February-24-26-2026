@@ -1,7 +1,10 @@
-on: workflow_run
+on:
+  push:
+    branches: [main]
+
 jobs:
   test:
-    runs-on: codespaces-prebuild
+    runs-on: ubuntu-latest
     steps:
       - name: Test creating a new GitHub Discussion
         id: create-discussion
