@@ -1,18 +1,22 @@
+name: Example Action
+
+# Controls when the workflow will run
 on:
-  push:
-    branches: [main]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
-  test:
+  generate:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
     steps:
-      - name: Test creating a new GitHub Discussion
+      - name: Generate new discussion
         id: create-discussion
-        uses: abirismyname/create-discussion@main   
+        uses: abirismyname/create-discussion@v2.1.0 
         with:
-          title: Test discussion
+          title: "Test discussion in QA"
           body: |
             Let's see if this works!
-          category-name: Q&A              #optional, defaults to "General"
-          #repository-name: owner/repo               #optional, defaults to the current repository
-          github-token: ${{ secrets.GITHUB_TOKEN }} 
+          category-name: Q&A
+          github-token: ${{ secrets.GITHUB_TOKEN }}
