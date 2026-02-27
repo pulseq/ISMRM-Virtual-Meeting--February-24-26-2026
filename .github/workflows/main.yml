@@ -1,0 +1,15 @@
+on: workflow_run
+jobs:
+  test:
+    runs-on: codespaces-prebuild
+    steps:
+      - name: Test creating a new GitHub Discussion
+        id: create-discussion
+        uses: abirismyname/create-discussion@main   
+        with:
+          title: Test discussion
+          body: |
+            Let's see if this works!
+          category-name: Q&A              #optional, defaults to "General"
+          #repository-name: owner/repo               #optional, defaults to the current repository
+          github-token: ${{ secrets.GITHUB_TOKEN }} 
