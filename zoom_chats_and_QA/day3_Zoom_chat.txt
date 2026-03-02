@@ -1,0 +1,65 @@
+09:15:28 From Matteo Cencini To All panelists:
+	where is the transform_fov PR in pypulseq? I can't see it
+09:16:20 From Sydney Williams To All panelists:
+	I believe Maxim said that it has been submitted but not accepted yet in PyPulseq, but I can confirm by asking in the QA
+09:22:43 From Sairam Geethanath To All panelists:
+	I dont see it in PRs as well - https://github.com/imr-framework/pypulseq/pulls. Maybe @maxim is referring to translating it from MATLAB
+09:27:39 From Mojtaba Shafiekhani To All panelists:
+	The TransformFOV function is available in matlab Pulseq and we have submitted the Python code as well but not accepted yet.
+09:29:29 From Matteo Cencini To All panelists:
+	Thanks for the answer Mojtaba! I don't properly understand what you mean as submission if not as a Pull Request - that's why I was asking :)
+09:29:38 From Sairam Geethanath To All panelists:
+	Hi Mojtaba! How have you submitted the code? PR?
+09:29:50 From Prof. Dr. Maxim Zaitsev To All panelists:
+	concerning the FOV code: we have a python Version, which we have sent to our partners in the A4IM Project and are planing to officially submit it at PR any time now. There is a little issue with the rotate3D function, which we need to clear.
+09:30:16 From Sairam Geethanath To All panelists:
+	Thanks for clarifying!
+09:33:01 From Matteo Cencini To All panelists:
+	Thanks Maxim! RE rotate3D: there is an open PR, but it was started before license change by Ben Wilhelm (is he working with you?) whose github account does not exist anymore and is hence slipped from the license change agreement survey - do you have any way to reach him out or do you think that being a translation of MATLAB code it falls under same license as upstream pulseq anyway?
+09:44:27 From Prof. Dr. Maxim Zaitsev To All panelists:
+	@Matteo: yes, I've seen your message. We'll Need to discuss internally, how we go about it. Mojtaba's code uses a slightly different function, so maybe we can submit the new one as a new PR. Or we should be able to reach out to Ben as well. We'll stay in contact and should be able to figure it out in the next few days.
+09:54:21 From Prof. Dr. Maxim Zaitsev To All panelists:
+	I like your Gradient Player function very much! ;-)
+09:58:19 From Patrick Schuenke To All panelists:
+	I also like the Pulseq Viewer in general a lot. Is it available online? (I cannot ask questions in Q&A)
+10:00:10 From Jon-Fredrik Nielsen To All panelists:
+	Ah. We panelists can chat here with 'Everyone', then I think everyone will see your question.
+10:00:43 From Matteo Cencini To All panelists:
+	ah! I don't see any "everyone" option
+10:04:08 From Prof. Dr. Maxim Zaitsev To All panelists:
+	@ZhengZhong: could you please comment on the regulatory Status of the Pulseq Interpreter on UI? Is it certified as a medical product?
+10:09:37 From Zheng Zhong To All panelists:
+	Currently, our Pulseq interpreter, including the Pulseq Viewer, is available to customers under NDA.	
+	We are actively working toward broader availability to the public. However, this process will take some time due to internal review and release procedures.
+10:12:22 From Patrick Schuenke To All panelists:
+	@Maxim: if you select "strict" mode for a sequence and afterwards select another sequence that would not allow to use "strict" mode, the UI crashes. Is this a known issue? You can cancel and reopen the sequence, so no need for a restart, but still annoying sometimes.
+10:16:05 From Patrick Schuenke To All panelists:
+	@Maxim: you mentioned that sim does not work when not saving the protocol including coils. Do you think fixing this might also solve the "table undocked" problem, which in my opinion is also related to coil and/or shim settings.
+10:17:41 From Dario Bosch To All panelists:
+	On Siemens, is there a way to save the raw data into dicom files? I know multiple labs where dicoms are automatically exported and archived. It would save many runs back and forth with USB drives if I didn't have to export dat files...
+10:26:36 From Zheng Zhong To All panelists:
+	@Maxim: Our pulseq interpreter is only available to research customers, not a medical product yet
+10:28:34 From Prof. Dr. Maxim Zaitsev To All panelists:
+	@Patrick: no, I was not aware of this crash situation.
+10:42:25 From Sydney Williams To All panelists:
+	Hi All, apologies but I’ll need to leave now. Thanks for the wonderful presentations and sorry to the speakers I’m going to miss. Great thing it’s recorded 🙂
+10:42:51 From Jon-Fredrik Nielsen To All panelists:
+	Thanks for moderating, great job!
+11:08:16 From Matteo Cencini To All panelists:
+	I also have to leave, apologies! thanks everyone :D
+11:09:25 From Prof. Dr. Maxim Zaitsev To All panelists:
+	Sure! Thanks for helping out and see you then, maybe in Cape Town?
+11:09:47 From Matteo Cencini To All panelists:
+	Yes, I will be there. Looking forward to seeing you!
+11:47:20 From Jon-Fredrik Nielsen To All panelists:
+	Xiaoxi do you want to answer the question in the Q&A? (btw great presentation!)
+11:48:43 From Xiaoxi Liu To All panelists:
+	Thanks Jon, sorry I don’t know how to type the answer. It’s showing ‘You would like to answer this question live.’
+11:49:14 From Prof. Dr. Maxim Zaitsev To All panelists:
+	@XinMiao: make sure you update the bStar sequence to the new format supporting the RotationExtension, it will make sequence files much smaller and quicker to load
+11:49:42 From Jon-Fredrik Nielsen To All panelists:
+	Xiaoxi: If you like you can type your answer here and I'll paste it in
+11:51:26 From Xiaoxi Liu To All panelists:
+	Thank you Jon!  ‘Yes, it’s implementable now. Though we didn’t test in 129Xe coils, we would like to support if you meet any bugs during using MNS functions.’
+11:59:35 From Dario Bosch To All panelists:
+	Thank you very much for organizing this!
