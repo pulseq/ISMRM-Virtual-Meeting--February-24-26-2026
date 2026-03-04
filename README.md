@@ -17,7 +17,7 @@ This course will take place over three half-days and will cover the following to
 
 Handouts and tutorials will be stored in this repository. We also invite all participants to use the  [Discussions](https://github.com/pulseq/ISMRM-Virtual-Meeting--February-24-26-2026/discussions) tab in this repository to ask questions and place comments. We will do our best to address all of the raised points in the interactive Q&A sessions at the end of each day.
 
-Advance free-of-charge registration is necessary to be able to attend the webinar and access recoded presentations. **registration is closed**
+Advance free-of-charge registration is necessary to be able to attend the webinar and access recoded presentations (**registration is closed**).
 
 ## Poll Results:
 See results of the polls amongst the workshop attendees [here](poll_results).
