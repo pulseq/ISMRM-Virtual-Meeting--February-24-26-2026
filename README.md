@@ -24,13 +24,13 @@ See results of the polls amongst the workshop attendees [here](poll_results).
 
 ## Workshop Program:
 
-|time (UTC)|duration|topic                                                   |speaker                            |moderator            |
-|----------|--------|--------------------------------------------------------|-----------------------------------|---------------------|
-|**Day 1** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |
-|14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |
-|14:35     |30      |Working with Pulseq in Matlab                           |Andreia Gaspar                      |Jon-Fredrik Nielsen  |
-|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |
+|time (UTC)|duration|topic                                                   |speaker                            |moderator            |materials|
+|----------|--------|--------------------------------------------------------|-----------------------------------|---------------------|---------|
+|**Day 1** |        |                                                        |                                   |                     |         |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |         |
+|14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |[slides](slides/day1_Pulseq_Principles.pdf)|
+|14:35     |30      |Working with Pulseq in Matlab                           |Andreia Gaspar                     |Jon-Fredrik Nielsen  |[slides](slides/day1_Working_with_Pulseq_in_Matlab.pdf)|
+|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |[slides](slides/day1_basic_Pulseq_tutorial.pdf) [tutorials](tutorials/day1_basicPulseqTutorial/)|
 |15:35     |5       |*Break*                                                 |                                   |                     |
 |15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andreia Gaspar        |
 |15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andreia Gaspar        |
