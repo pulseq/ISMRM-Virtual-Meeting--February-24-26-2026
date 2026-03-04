@@ -30,35 +30,35 @@ See results of the polls amongst the workshop attendees [here](poll_results).
 |14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Jon-Fredrik Nielsen  |         |
 |14:05     |30      |Basic Pulseq concepts                                   |Maxim Zaitsev                      |Jon-Fredrik Nielsen  |[slides](slides/day1_Pulseq_Principles.pdf)|
 |14:35     |30      |Working with Pulseq in Matlab                           |Andreia Gaspar                     |Jon-Fredrik Nielsen  |[slides](slides/day1_Working_with_Pulseq_in_Matlab.pdf)|
-|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |[slides](slides/day1_basic_Pulseq_tutorial.pdf) [tutorials](tutorials/day1_basicPulseqTutorial/)|
-|15:35     |5       |*Break*                                                 |                                   |                     |
-|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andreia Gaspar        |
-|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andreia Gaspar        |
-|16:10     |15      |BART-Pulseq                                             |Daniel Mackner                     |Rita Nunes           |
-|16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |Rita Nunes           |
-|16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |Rita Nunes           |
-|**Day 2** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maximilian Gram      |
-|14:05     |30      |IP & licensing - making MR methodology open source (without getting in trouble)|Maxim Zaitsev|Maximilian Gram|
-|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maximilian Gram      |
-|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maximilian Gram      |
-|15:35     |5       |*Break*                                                 |                                   |                     |
-|15:40     |10      |Seqeyes: sequence and trajectory viewer tool            |Xingwang Yong                      |Yogesh Rathi         |
-|15:50     |10      |Pulseq on Philips II                                    |Will Grissom                       |Yogesh Rathi         |
-|16:00     |20      |openSPEN                                                |Andreas Holl                       |Yogesh Rathi         |
-|16:20     |20      |Sustainability of the Pulseq environment and community building|Maxim Zaitsev / Jon-Fredrik Nielsen|Yogesh Rathi  |
-|16:40     |20      |Interactive Q/A session                                 |Maxim Zaitsev                      |Yogesh Rathi         |
-|**Day 3** |        |                                                        |                                   |                     |
-|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Sydney Williams      |
-|14:05     |15      |What's new in Pulseq                                    |Maxim Zaitsev                      |Sydney Williams      |
-|14:20     |20      |Patient safety and hardware protection                  |Jon-Fredrik Nielsen                |Sydney Williams      |
-|14:40     |15      |Pulseq Interpreter and Workflow on United Imaging       |Zheng Zhong                        |Sydney Williams      |
-|14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |Sydney Williams      |
-|15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |Sydney Williams      |
-|15:25     |5       |*Break*                                                 |                                   |                     |
-|15:30     |15      |Prescription-time design of Pulseq sequences on GE      |Matteo Cencini                     |Maxim Zaitsev        |
-|15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |Maxim Zaitsev        |
-|16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |Maxim Zaitsev        |
-|16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |Maxim Zaitsev        |
-|16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |Maxim Zaitsev        |
-|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxim Zaitsev        |
+|15:05     |30      |Tutorials of some basic sequences with examples         |Qingping Chen                      |Jon-Fredrik Nielsen  |[slides](slides/day1_basic_Pulseq_tutorial.pdf) [tutorial](tutorials/day1_basicPulseqTutorial/)|
+|15:35     |5       |*Break*                                                 |                                   |                     |         |
+|15:40     |15      |Pulseq Interpreter and Workflow on GE                   |Jon-Fredrik Nielsen                |Andreia Gaspar       |[slides](slides/day1_Pulseq_interpreter_and_workflow_on_GE.pdf)|
+|15:55     |15      |Pulseq Interpreter and Workflow on Philips              |Thomas Roos                        |Andreia Gaspar       |[slides](slides/day1_Pulseq_Interpreter_and_Workflow_on_Philips.pdf)|
+|16:10     |15      |BART-Pulseq                                             |Daniel Mackner                     |Rita Nunes           |[slides](slides/day1_BART_sequence_framework.pdf) [tutorial](tutorials/day1_BART_sequence_framework.md)|
+|16:25     |15      |MRI-nufft                                               |Pierre-Antoine Comby               |Rita Nunes           |[slides](slides/day1_mri-nufft_pulseq_symbiosis.pdf)|
+|16:40     |20      |Interactive Q/A session                                 |Jon-Fredrik Nielsen                |Rita Nunes           |         |
+|**Day 2** |        |                                                        |                                   |                     |         |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Maximilian Gram      |         |
+|14:05     |30      |IP & licensing - making MR methodology open source (without getting in trouble)|Maxim Zaitsev|Maximilian Gram     |[slides](slides/day2_IP_and_Open_Source.pdf)|
+|14:35     |30      |PyPulseq                                                |Patrick Schuenke                   |Maximilian Gram      |[slides](main/slides/day2_PyPulseq_working_with_Pulseq_in_Python.pdf) [tutorial](tutorials/day2_PyPulseq)|
+|15:05     |30      |Advanced tutorials: data labels and image recon         |Mojtaba Shafiekhani                |Maximilian Gram      |[slides](slides/day2_Advanced_tutorials_data_labels_and_image_recon.pdf) [tutorial](tutorials/day2_Advanced_tutorials_data_labels_and_image_recon.md)|
+|15:35     |5       |*Break*                                                 |                                   |                     |         |
+|15:40     |10      |Seqeyes: sequence and trajectory viewer tool            |Xingwang Yong                      |Yogesh Rathi         |[slides](slides/day2_Seqeyes_sequence_and_trajectory_viewer_tool.pdf)|
+|15:50     |10      |Pulseq on Philips II                                    |Will Grissom                       |Yogesh Rathi         |[slides](slides/day2_Pulseq_on_Philips_II.pdf)|
+|16:00     |20      |openSPEN                                                |Andreas Holl                       |Yogesh Rathi         |[slides](slides/day2_Open_SPEN_implementation_in_Pulseq.pdf) [tutorial](tutorials/day2_Open_SPEN_implementation_in_Pulseq.md)|
+|16:20     |20      |Sustainability of the Pulseq environment and community building|Maxim Zaitsev / Jon-Fredrik Nielsen|Yogesh Rathi  |[slides](slides/day2_Sustainability_of_the_Pulseq_Environment_and_Community_Building.pdf) [polls](poll_results)|
+|16:40     |20      |Interactive Q/A session                                 |Maxim Zaitsev                      |Yogesh Rathi         |         |
+|**Day 3** |        |                                                        |                                   |                     |         |
+|14:00     |5       |Welcome                                                 |Maxim Zaitsev & Jon-Fredrik Nielsen|Sydney Williams      |         |
+|14:05     |15      |What's new in Pulseq                                    |Maxim Zaitsev                      |Sydney Williams      |[slides](slides/day3_Pulseq_News_Feb2026.pdf)|
+|14:20     |20      |Patient safety and hardware protection                  |Jon-Fredrik Nielsen                |Sydney Williams      |[slides](slides/day3_Patient_Safety_and_Hardware_Protection.pdf)|
+|14:40     |15      |Pulseq Interpreter and Workflow on United Imaging       |Zheng Zhong                        |Sydney Williams      |[slides](slides/day3_UnitedImaginMR_Pulseq_Interpreter_Intro.pdf)|
+|14:55     |15      |Pulseq Interpreter and Workflow on Siemens              |Maxim Zaitsev                      |Sydney Williams      |[slides](slides/day3_Pulseq_Siemens_Workflow_Feb2026.pdf)|
+|15:10     |15      |Parallel transmit (pTX) with Pulseq on Siemens          |Dario Bosch                        |Sydney Williams      |[slides](slides/day3_Parallel_transmit_with_Pulseq_on_Siemens.pdf)|
+|15:25     |5       |*Break*                                                 |                                   |                     |         |
+|15:30     |15      |Prescription-time design of Pulseq sequences on GE      |Matteo Cencini                     |Maxim Zaitsev        |[slides](slides/day3_prescription_time_pulseq_design_on_gehc.pdf)|
+|15:45     |15      |Pulseq for high-resolution diffusion acquisitions       |Qiang Liu                          |Maxim Zaitsev        |[slides](slides/day3_Pulseq_for_High_Resolution_Diffusion_Acquisitions.pdf)|
+|16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |Maxim Zaitsev        |[slides](slides/day3_PyPulseq_for_Low_Field_MRI.pdf)|
+|16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |Maxim Zaitsev        |[slides](slides/day3_Open_Source_Implementation_of_X_Nuclear_Sequences_Using_the_Pulseq_Framework.pdf)|
+|16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |Maxim Zaitsev        |         |
+|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxim Zaitsev        |         |
