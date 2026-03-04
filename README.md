@@ -61,4 +61,4 @@ See results of the polls amongst the workshop attendees [here](poll_results).
 |16:00     |15      |PyPulseq for low-field MRI                              |Sairam Geethanath                  |Maxim Zaitsev        |[slides](slides/day3_PyPulseq_for_Low_Field_MRI.pdf)|
 |16:15     |20      |Open-Source Implementation of X-Nuclear Sequences Using the Pulseq Framework|Xiaoxi Liu     |Maxim Zaitsev        |[slides](slides/day3_Open_Source_Implementation_of_X_Nuclear_Sequences_Using_the_Pulseq_Framework.pdf)|
 |16:35     |20      |Cross-vendor implementation of the bSTAR sequence       |Xin Miao                           |Maxim Zaitsev        |         |
-|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxim Zaitsev        |         |
+|16:50     |10      |Closing remarks                                         |Maxim Zaitsev & Jon-Fredrik Nielsen|Maxim Zaitsev        |[polls](poll_results#poll-results-day-3)|
