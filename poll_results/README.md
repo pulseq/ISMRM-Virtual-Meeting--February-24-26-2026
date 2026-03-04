@@ -1,4 +1,5 @@
 # Poll Results Day 2
+Jump to [Day 3](#poll-results-day-3)
 
 ## Poll 1: Community Effort to Harmonize API
 
@@ -172,4 +173,4 @@
 | | Presentations by Pulseq users | 60 |
 | | Other | 4 |
 
-*free text comments are not disclosed for privacy reasons (and probably because the organizers are little bit embarrassed by overwhelmingly possitive feedback)*
+*free text comments are not disclosed for privacy reasons (and probably because the organizers are little bit embarrassed by the overwhelmingly possitive feedback)*
